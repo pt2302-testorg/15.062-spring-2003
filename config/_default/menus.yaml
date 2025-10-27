@@ -23,7 +23,3 @@ leftnav:
   name: Study Materials
   pageRef: /pages/study-materials
   weight: 60
-- identifier: 4c79b178-dddf-48ee-b8d7-9474bea0eae3
-  name: Test
-  pageRef: /video_galleries/test
-  weight: 70
